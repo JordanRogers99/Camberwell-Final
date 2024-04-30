@@ -5,7 +5,17 @@
     gap: 3px;
 }
 
-        .Me {
+        .Photography {
+            border-style: double;
+            padding: 10px;
+            flex: 1 0 10px;
+            text-align: center;
+            text-decoration: none;
+            color:white;
+            background-color: rgb(47, 37, 37);
+        }
+
+        .Videography {
             border-style: double;
             padding: 10px;
             flex: 1 0 10px;
