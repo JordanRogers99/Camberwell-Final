@@ -1,0 +1,36 @@
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 3px;
+}
+
+        .Me {
+            border-style: double;
+            padding: 10px;
+            flex: 1 0 10px;
+            text-align: center;
+            text-decoration: none;
+            color:white;
+            background-color: rgb(47, 37, 37);
+        }
+
+        .Inspiration {
+            border-style: double;
+            padding: 10px;
+            flex: 1 0 10px;
+            text-align: center;
+            text-decoration: none;
+            color:white;
+            background-color: rgb(47, 37, 37);
+        }
+
+        .Philosophy {
+            border-style: double;
+            padding: 10px;
+            flex: 1 0 10px;
+            text-align: center;
+            text-decoration: none;
+            color:white;
+            background-color: rgb(47, 37, 37);
+        }
