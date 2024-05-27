@@ -106,3 +106,24 @@
     border-style: solid;
     padding: 10px;
 }
+
+
+
+
+
+.photographyWriting {
+    text-align: center;
+    padding: 20px;
+}
+
+.titlePhotog {
+    background-color: burlywood;
+    padding: 5px;
+    text-decoration: underline;
+}
+
+.photogOne {
+    border-style: solid;
+    padding: 10px;
+    
+}
