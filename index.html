@@ -7,6 +7,20 @@
     <title>Document</title>
 </head>
 <body>
+
+    <script>
+        var password = "JordanRogers";
+        (function passcodeprotect() {
+           var passcode = prompt("Enter PassCode");
+           while (passcode !== password) {
+              alert("Incorrect PassCode");
+              return passcodeprotect();
+           }
+        }());
+        alert('Please enjoy my website for Unit 10.');
+     </script>
+
+
     <div class="links">
 
         <a class="Home" href=" ./index.html">Homepage</a>

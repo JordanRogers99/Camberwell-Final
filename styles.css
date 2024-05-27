@@ -5,6 +5,16 @@
     gap: 3px;
 }
 
+        .Home {
+            border-style: double;
+            padding: 10px;
+            flex: 1 0 10px;
+            text-align: center;
+            text-decoration: none;
+            color:white;
+            background-color: rgb(47, 37, 37);
+        }
+
         .Photography {
             border-style: double;
             padding: 10px;
