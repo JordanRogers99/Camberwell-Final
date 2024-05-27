@@ -49,11 +49,37 @@
             text-align: center;
         }
 
+        .allText {
+            text-align: center;
+            margin: 30px;
+        }
+
+        .head {
+            border-style: solid;
+        }
+
+
+
+
+
+
+
+.titlePhil {
+    background-color: burlywood;
+    padding: 5px;
+    text-decoration: underline;
+}
 
 .opening {
     text-align: center;
+    font-size:x-large;
 }
 
 .PhilOne {
     border-style: solid;
+    padding: 10px;
+}
+
+.quotes {
+    font-size:large;
 }
