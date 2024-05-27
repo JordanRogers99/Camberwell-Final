@@ -133,3 +133,44 @@
     padding: 10px;
     
 }
+
+
+
+
+
+
+
+.audioWriting {
+    text-align: center;
+    padding: 20px;
+}
+
+.titleaudio {
+    background-color: burlywood;
+    padding: 5px;
+    text-decoration: underline;
+}
+
+.audioOne {
+    border-style: solid;
+    padding: 10px;
+    
+}
+
+.audioTwo {
+    border-style: solid;
+    padding: 10px;
+    
+}
+
+.audioThree {
+    border-style: solid;
+    padding: 10px;
+    
+}
+
+.audioFour {
+    border-style: solid;
+    padding: 10px;
+    
+}
