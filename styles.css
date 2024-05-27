@@ -15,7 +15,7 @@
             background-color: rgb(47, 37, 37);
         }
 
-        .Videography {
+        .Audio {
             border-style: double;
             padding: 10px;
             flex: 1 0 10px;
@@ -123,6 +123,12 @@
 }
 
 .photogOne {
+    border-style: solid;
+    padding: 10px;
+    
+}
+
+.photogTwo {
     border-style: solid;
     padding: 10px;
     
