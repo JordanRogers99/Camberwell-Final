@@ -101,6 +101,12 @@
     font-size:large;
 }
 
+.allphil {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 
 
 
@@ -135,6 +141,12 @@
 .Inspo4 {
     border-style: solid;
     padding: 10px;
+}
+
+.allinspo {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 
@@ -176,6 +188,12 @@
     
 }
 
+.allphotog {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 
 
 
@@ -215,4 +233,10 @@
     border-style: solid;
     padding: 10px;
     
+}
+
+.allaudio {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
