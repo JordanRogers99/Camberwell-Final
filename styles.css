@@ -64,6 +64,7 @@
 
 
 
+
 .titlePhil {
     background-color: burlywood;
     padding: 5px;
@@ -82,4 +83,29 @@
 
 .quotes {
     font-size:large;
+}
+
+
+
+
+
+
+.inspirationWriting {
+    text-align: center;
+}
+
+.titleinspo {
+    background-color: burlywood;
+    padding: 5px;
+    text-decoration: underline;
+}
+
+.opening {
+    text-align: center;
+    font-size:x-large;
+}
+
+.Inspo1 {
+    border-style: solid;
+    padding: 10px;
 }
