@@ -82,6 +82,21 @@
     padding: 10px;
 }
 
+.philTwo {
+    border-style: solid;
+    padding: 10px;
+}
+
+.philThree {
+    border-style: solid;
+    padding: 10px;
+}
+
+.philFour {
+    border-style: solid;
+    padding: 10px;
+}
+
 .quotes {
     font-size:large;
 }
@@ -103,6 +118,21 @@
 }
 
 .Inspo1 {
+    border-style: solid;
+    padding: 10px;
+}
+
+.Inspo2 {
+    border-style: solid;
+    padding: 10px;
+}
+
+.Inspo3 {
+    border-style: solid;
+    padding: 10px;
+}
+
+.Inspo4 {
     border-style: solid;
     padding: 10px;
 }
