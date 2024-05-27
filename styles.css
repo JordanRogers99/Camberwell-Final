@@ -47,6 +47,7 @@
 
         .PhilosophyWriting {
             text-align: center;
+            padding: 20px;
         }
 
         .allText {
@@ -92,17 +93,13 @@
 
 .inspirationWriting {
     text-align: center;
+    padding: 20px;
 }
 
 .titleinspo {
     background-color: burlywood;
     padding: 5px;
     text-decoration: underline;
-}
-
-.opening {
-    text-align: center;
-    font-size:x-large;
 }
 
 .Inspo1 {
